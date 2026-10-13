@@ -1,0 +1,4 @@
+configuration,hit@1,hit@3,hit@5,hit@10,mrr
+bge-m3 seul,0.307,0.498,0.622,0.796,0.443
+bge-m3 + reranker (top 20 → 10),0.378,0.599,0.724,0.851,0.521
+bge-m3 + reranker (top 40 → 10),0.38,0.599,0.732,0.874,0.525

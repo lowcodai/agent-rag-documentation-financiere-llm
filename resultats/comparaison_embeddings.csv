@@ -1,0 +1,5 @@
+modèle,hit@1,hit@3,hit@5,hit@10,mrr
+sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2,0.176,0.294,0.401,0.528,0.268
+intfloat/multilingual-e5-large,0.283,0.475,0.567,0.727,0.408
+BAAI/bge-m3,0.307,0.498,0.622,0.796,0.443
+Qwen/Qwen3-Embedding-0.6B,0.288,0.506,0.603,0.784,0.43

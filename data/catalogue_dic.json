@@ -1,0 +1,317 @@
+{
+ "Allianz.pdf": {
+  "produit": "ALLIANZ EURO HIGH YIELD Part RC (EUR)",
+  "societe_gestion": "Allianz Global Investors GmbH",
+  "isin": "FR0010032326"
+ },
+ "Carmigac.pdf": {
+  "produit": "Carmignac Sécurité PART AW EUR ACC",
+  "societe_gestion": "Carmignac Gestion",
+  "isin": "FR0010149120"
+ },
+ "FR0007040373_DIC_FR_20230630.pdf": {
+  "produit": "29 HAUSSMANN EQUILIBRE",
+  "societe_gestion": "SG 29 HAUSSMANN",
+  "isin": "FR0007040373"
+ },
+ "FR0007050570_DIC_FR_20230630.pdf": {
+  "produit": "29 Haussmann Sélection Monde - Part C",
+  "societe_gestion": "SG 29 HAUSSMANN",
+  "isin": "FR0007050570"
+ },
+ "FR0010902726_DIC_FR_20230831.pdf": {
+  "produit": "29 Haussman Euro Rendement - Part C",
+  "societe_gestion": "SG 29 HAUSSMANN",
+  "isin": "FR0010902726"
+ },
+ "FR0011443225_DIC_FR_20230630.pdf": {
+  "produit": "29 HAUSSMANN ACTIONS EUROPE - Part C",
+  "societe_gestion": "SG 29 HAUSSMANN",
+  "isin": "FR0011443225"
+ },
+ "FR0011443233_DIC_FR_20230630.pdf": {
+  "produit": "29 Haussmann Sélection France - Part C",
+  "societe_gestion": "SG 29 HAUSSMANN",
+  "isin": "FR0011443233"
+ },
+ "FR001400BQ78_DIC_FR_20230630.pdf": {
+  "produit": "29 Haussmann Euro Crédit - Part C",
+  "societe_gestion": "SG 29 HAUSSMANN (Groupe SOCIETE GENERALE)",
+  "isin": "FR001400BQ78"
+ },
+ "Independance et expension.pdf": {
+  "produit": "Europe, un compartiment de INDEPENDANCE ET EXPANSION SICAV - Classe A, C (Capitalisation)",
+  "societe_gestion": "Indépendance et Expansion AM S.A.",
+  "isin": "LU1832174962"
+ },
+ "JP Morgan.pdf": {
+  "produit": "JPM Global Macro Opportunities D (acc) - EUR",
+  "societe_gestion": "JPMorgan Asset Management (Europe) S.à r.l.",
+  "isin": "LU0115098948"
+ },
+ "KIDPRIIPs_260056_85665_FRA_FRA_20230601.pdf": {
+  "produit": "AMUNDI MSCI WORLD ESG LEADERS UCITS ETF",
+  "societe_gestion": "Amundi Ireland Limited",
+  "isin": "IE00016PSX47"
+ },
+ "KIDPRIIPs_359588_52248_FRA_FRA_20230824.pdf": {
+  "produit": "AMUNDI MSCI EMU ESG LEADERS SELECT - UCITS ETF DR - EUR",
+  "societe_gestion": "Amundi Luxembourg S.A.",
+  "isin": "LU1602144575"
+ },
+ "KIDPRIIPs_359896_87124_FRA_FRA_20230830.pdf": {
+  "produit": "AMUNDI MSCI JAPAN ESG CLIMATE NET ZERO AMBITION CTB UCITS ETF DIST",
+  "societe_gestion": "Amundi Luxembourg S.A.",
+  "isin": "LU2300294746"
+ },
+ "KIDPRIIPs_375641_89603_FRA_FRA_20230905.pdf": {
+  "produit": "AMUNDI INDEX MSCI EUROPE ESG BROAD CTB UCITS ETF DR - EUR (D)",
+  "societe_gestion": "Amundi Luxembourg S.A.",
+  "isin": "LU2678230652"
+ },
+ "KIDPRIIPs_388188_51570_FRA_FRA_20231030.pdf": {
+  "produit": "AMUNDI S&P 500 UCITS ETF - EUR",
+  "societe_gestion": "Amundi Luxembourg S.A.",
+  "isin": "LU1681048804"
+ },
+ "KIDPRIIPs_388360_51598_FRA_FRA_20231030.pdf": {
+  "produit": "AMUNDI MSCI EM ASIA UCITS ETF - USD",
+  "societe_gestion": "Amundi Luxembourg S.A.",
+  "isin": "LU1681044563"
+ },
+ "KIDPRIIPs_388409_51596_FRA_FRA_20231030.pdf": {
+  "produit": "AMUNDI MSCI EM LATIN AMERICA UCITS ETF - USD",
+  "societe_gestion": "Amundi Luxembourg S.A.",
+  "isin": "LU1681045297"
+ },
+ "KIDPRIIPs_388767_52272_FRA_FRA_20231030.pdf": {
+  "produit": "AMUNDI MSCI JAPAN ESG CLIMATE NET ZERO AMBITION CTB UCITS ETF EUR Acc",
+  "societe_gestion": "Amundi Luxembourg S.A.",
+  "isin": "LU1602144732"
+ },
+ "KIDPRIIPs_389140_85227_FRA_FRA_20231030.pdf": {
+  "produit": "AMUNDI MSCI WORLD III UCITS ETF Dist",
+  "societe_gestion": "Amundi Luxembourg S.A.",
+  "isin": "LU2572257124"
+ },
+ "KIDPRIIPs_389170_51360_FRA_FRA_20231030.pdf": {
+  "produit": "AMUNDI MSCI WORLD UCITS ETF - USD",
+  "societe_gestion": "Amundi Luxembourg S.A.",
+  "isin": "LU1681043672"
+ },
+ "KIDPRIIPs_389214_51576_FRA_FRA_20231030.pdf": {
+  "produit": "AMUNDI NASDAQ-100 UCITS ETF - USD",
+  "societe_gestion": "Amundi Luxembourg S.A.",
+  "isin": "LU1681038326"
+ },
+ "KIDPRIIPs_390085_51571_FRA_FRA_20231030.pdf": {
+  "produit": "AMUNDI S&P 500 UCITS ETF - USD",
+  "societe_gestion": "Amundi Luxembourg S.A.",
+  "isin": "LU1681049018"
+ },
+ "KIDPRIIPs_390180_51557_FRA_FRA_20231030.pdf": {
+  "produit": "Amundi Stoxx Europe 600 ESG UCITS ETF Acc",
+  "societe_gestion": "Amundi Luxembourg S.A.",
+  "isin": "LU1681040223"
+ },
+ "KIDPRIIPs_391370_57904_FRA_FRA_20231030.pdf": {
+  "produit": "AMUNDI INDEX FTSE EPRA NAREIT GLOBAL UCITS ETF DR",
+  "societe_gestion": "Amundi Luxembourg S.A.",
+  "isin": "LU1737652823"
+ },
+ "KIDPRIIPs_391737_63121_FRA_FRA_20231030.pdf": {
+  "produit": "AMUNDI INDEX MSCI EMERGING MARKETS SRI PAB - UCITS ETF DR",
+  "societe_gestion": "Amundi Luxembourg S.A.",
+  "isin": "LU1861138961"
+ },
+ "KIDPRIIPs_391793_48169_FRA_FRA_20231030.pdf": {
+  "produit": "AMUNDI INDEX MSCI EMERGING MARKETS UCITS ETF DR",
+  "societe_gestion": "Amundi Luxembourg S.A.",
+  "isin": "LU1437017350"
+ },
+ "KIDPRIIPs_391851_75650_FRA_FRA_20231030.pdf": {
+  "produit": "AMUNDI INDEX MSCI EMERGING MARKETS UCITS ETF DR -USD",
+  "societe_gestion": "Amundi Luxembourg S.A.",
+  "isin": "LU2277591868"
+ },
+ "KIDPRIIPs_391990_57902_FRA_FRA_20231030.pdf": {
+  "produit": "AMUNDI INDEX MSCI EUROPE UCITS ETF DR",
+  "societe_gestion": "Amundi Luxembourg S.A.",
+  "isin": "LU1737652310"
+ },
+ "KIDPRIIPs_392101_84982_FRA_FRA_20231030.pdf": {
+  "produit": "AMUNDI INDEX MSCI JAPAN SRI PAB - UCITS ETF DR - HEDGED USD",
+  "societe_gestion": "Amundi Luxembourg S.A.",
+  "isin": "LU1646359882"
+ },
+ "KIDPRIIPs_408300_85746_FRA_FRA_20230914.pdf": {
+  "produit": "AMUNDI S&P 500 ESG UCITS ETF - Acc EUR HEDGED",
+  "societe_gestion": "Amundi Ireland Limited",
+  "isin": "IE00058MW3M8"
+ },
+ "KIDPRIIPs_430939_80036_FRA_FRA_20240101.pdf": {
+  "produit": "AMUNDI MSCI JAPAN UCITS ETF Acc",
+  "societe_gestion": "Amundi Luxembourg S.A.",
+  "isin": "LU1781541252"
+ },
+ "KIDPRIIPs_434426_79918_FRA_FRA_20231011.pdf": {
+  "produit": "AMUNDI EURO STOXX 50 II UCITS ETF GBP Hedged Acc",
+  "societe_gestion": "Amundi Asset Management",
+  "isin": "FR0012399772"
+ },
+ "KIDPRIIPs_434452_79919_FRA_FRA_20231011.pdf": {
+  "produit": "AMUNDI EURO STOXX 50 II UCITS ETF USD Hedged Acc",
+  "societe_gestion": "Amundi Asset Management",
+  "isin": "FR0012399806"
+ },
+ "KIDPRIIPs_434766_79599_FRA_FRA_20231011.pdf": {
+  "produit": "Amundi MSCI India II UCITS ETF EUR Acc",
+  "societe_gestion": "Amundi Asset Management",
+  "isin": "FR0010361683"
+ },
+ "KIDPRIIPs_434807_79593_FRA_FRA_20231011.pdf": {
+  "produit": "Amundi MSCI World II UCITS ETF EUR Hedged Dist",
+  "societe_gestion": "Amundi Asset Management",
+  "isin": "FR0011660927"
+ },
+ "KIDPRIIPs_434825_79590_FRA_FRA_20231011.pdf": {
+  "produit": "Amundi MSCI World II UCITS ETF Dist",
+  "societe_gestion": "Amundi Asset Management",
+  "isin": "FR0010315770"
+ },
+ "KIDPRIIPs_434909_79585_FRA_FRA_20231011.pdf": {
+  "produit": "Amundi CAC 40 UCITS ETF Dist",
+  "societe_gestion": "Amundi Asset Management",
+  "isin": "FR0007052782"
+ },
+ "KIDPRIIPs_435039_79602_FRA_FRA_20231011.pdf": {
+  "produit": "Amundi MSCI New Energy ESG Screened UCITS ETF Dist",
+  "societe_gestion": "Amundi Asset Management",
+  "isin": "FR0010524777"
+ },
+ "KIDPRIIPs_435178_85823_FRA_FRA_20231018.pdf": {
+  "produit": "AMUNDI S&P 500 CLIMATE NET ZERO AMBITION PAB UCITS ETF Dist",
+  "societe_gestion": "Amundi Ireland Limited",
+  "isin": "IE000UZTA1X0"
+ },
+ "KIDPRIIPs_438814_85651_FRA_FRA_20231027.pdf": {
+  "produit": "AMUNDI MSCI WORLD ESG CLIMATE NET ZERO AMBITION CTB UCITS ETF Acc",
+  "societe_gestion": "Amundi Ireland Limited",
+  "isin": "IE0001GSQ2O9"
+ },
+ "KIDPRIIPs_446487_79666_FRA_FRA_20240101.pdf": {
+  "produit": "Amundi MSCI World V UCITS ETF Acc",
+  "societe_gestion": "Amundi Luxembourg S.A.",
+  "isin": "LU1781541179"
+ },
+ "KIDPRIIPs_447560_79681_FRA_FRA_20240101.pdf": {
+  "produit": "Amundi MSCI All Country World UCITS ETF EUR Acc",
+  "societe_gestion": "Amundi Luxembourg S.A.",
+  "isin": "LU1829220216"
+ },
+ "KIDPRIIPs_447577_79682_FRA_FRA_20240101.pdf": {
+  "produit": "Amundi MSCI All Country World UCITS ETF USD Acc",
+  "societe_gestion": "Amundi Luxembourg S.A.",
+  "isin": "LU1829220133"
+ },
+ "KIDPRIIPs_448030_79626_FRA_FRA_20240101.pdf": {
+  "produit": "Amundi S&P 500 II UCITS ETF EUR Hedged Acc",
+  "societe_gestion": "Amundi Luxembourg S.A.",
+  "isin": "LU0959211326"
+ },
+ "KIDPRIIPs_448053_79627_FRA_FRA_20240101.pdf": {
+  "produit": "Amundi S&P 500 II UCITS ETF EUR Hedged Dist",
+  "societe_gestion": "Amundi Luxembourg S.A.",
+  "isin": "LU0959211243"
+ },
+ "KIDPRIIPs_448092_79629_FRA_FRA_20240101.pdf": {
+  "produit": "Amundi S&P 500 II UCITS ETF EUR Dist",
+  "societe_gestion": "Amundi Luxembourg S.A.",
+  "isin": "LU0496786574"
+ },
+ "KIDPRIIPs_448123_79630_FRA_FRA_20240101.pdf": {
+  "produit": "Amundi S&P 500 II UCITS ETF USD Dist",
+  "societe_gestion": "Amundi Luxembourg S.A.",
+  "isin": "LU0496786657"
+ },
+ "KIDPRIIPs_450082_85641_FRA_FRA_20231218.pdf": {
+  "produit": "AMUNDI MSCI WORLD SRI CLIMATE NET ZERO AMBITION PAB UCITS ETF Acc",
+  "societe_gestion": "Amundi Ireland Limited",
+  "isin": "IE000Y77LGG9"
+ },
+ "KIDPRIIPs_452339_85642_FRA_FRA_20231218.pdf": {
+  "produit": "AMUNDI MSCI WORLD SRI CLIMATE NET ZERO AMBITION PAB UCITS ETF Dist",
+  "societe_gestion": "Amundi Ireland Limited",
+  "isin": "IE000004V778"
+ },
+ "KIDPRIIPs_69463_FRA_FRA_20230928.pdf": {
+  "produit": "AMUNDI PEA S&P 500 ESG UCITS ETF- Acc",
+  "societe_gestion": "AMUNDI",
+  "isin": null
+ },
+ "Lazard.pdf": {
+  "produit": "LAZARD SMALL CAPS FRANCE",
+  "societe_gestion": "LAZARD FRERES GESTION SAS",
+  "isin": "FR0010262436"
+ },
+ "ODDO BHF.pdf": {
+  "produit": "ODDO BHF Avenir Part CR-EUR",
+  "societe_gestion": "ODDO BHF Asset Management SAS",
+  "isin": "FR0000989899"
+ },
+ "PICTET.pdf": {
+  "produit": "Pictet - Water P EUR",
+  "societe_gestion": "Pictet Asset Management (Europe) S.A.",
+  "isin": "LU0104884860"
+ },
+ "QS0002904819_DIC_FR_20231128.pdf": {
+  "produit": "SOCIETE GENERALE ACTIONNARIAT (FONDS E) - Part C",
+  "societe_gestion": "SG 29 HAUSSMANN",
+  "isin": null
+ },
+ "Rostchlid.pdf": {
+  "produit": "R-co Conviction Credit Euro (Action C EUR)",
+  "societe_gestion": "Rothschild & Co Asset Management Europe",
+  "isin": "FR0007008750"
+ },
+ "SODIFY.pdf": {
+  "produit": "SOFIDY Sélection 1 | Part P",
+  "societe_gestion": "SOFIDY",
+  "isin": "FR0011694256"
+ },
+ "Swisslife.pdf": {
+  "produit": "Swiss Life Funds (F) Multi Asset Moderate P",
+  "societe_gestion": "Swiss Life Asset Managers France",
+  "isin": "FR0010308825"
+ },
+ "credit_mutuel_arkea.pdf": {
+  "produit": "FEDERAL INDICIEL JAPON - Part P",
+  "societe_gestion": "FEDERAL FINANCE GESTION",
+  "isin": "FR0000987968"
+ },
+ "fidelity.pdf": {
+  "produit": "Fidelity Funds - Global Technology Fund A-Euro",
+  "societe_gestion": "FIL Investment Management (Luxembourg) S.A.",
+  "isin": "LU0099574567"
+ },
+ "fidelity2.pdf": {
+  "produit": "Fidelity Funds - America Fund A-Euro",
+  "societe_gestion": "FIL Investment Management (Luxembourg) S.A.",
+  "isin": "LU0069450822"
+ },
+ "kid-priips-qs0002904710-fra-fra.pdf": {
+  "produit": "ARCANCIA TRESORERIE 257 (C)",
+  "societe_gestion": "Société Générale Gestion",
+  "isin": null
+ },
+ "kid-priips-qs0002908281-fra-fra.pdf": {
+  "produit": "SG ACTIONS INTERNATIONALES ISR PART 854",
+  "societe_gestion": "Société Générale Gestion",
+  "isin": null
+ },
+ "pictet_2.pdf": {
+  "produit": "Pictet - Global Environmental Opportunities P EUR",
+  "societe_gestion": "Pictet Asset Management (Europe) S.A.",
+  "isin": "LU0503631714"
+ }
+}

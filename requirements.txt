@@ -1,11 +1,17 @@
+# torch : installer d'abord la version adaptée à votre CUDA (voir README)
 jupyterlab
 ipykernel
 langchain
 langchain-core
 langchain-community
 langchain-openai
-pypdf
-sentence-transformers
+langchain-chroma
+langchain-text-splitters
 chromadb
+pymupdf
+sentence-transformers
+bert-score
 pandas
 numpy
+matplotlib
+tqdm

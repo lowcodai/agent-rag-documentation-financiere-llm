@@ -1,0 +1,4 @@
+config,chunk_size,overlap,en_tete_produit,n_chunks,f1_bertscore,f1_median,part_introuvable,mots_par_reponse,duree_s
+chunk900_ov150_hdr1,900,150,True,1384,0.7551,0.7444,0.16,22.4,747
+chunk900_ov150_hdr0,900,150,False,1384,0.7787,0.7725,0.123,19.3,674
+chunk1300_ov200_hdr1,1300,200,True,929,0.7541,0.7525,0.165,23.2,895
