@@ -1,0 +1,11 @@
+jupyterlab
+ipykernel
+langchain
+langchain-core
+langchain-community
+langchain-openai
+pypdf
+sentence-transformers
+chromadb
+pandas
+numpy
